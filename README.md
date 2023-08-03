@@ -1,2 +1,2 @@
 # MNIST_SVM
-MNIST digit SVM classification in jupyter notebook
+SVM classification on MNIST dataset in Jupyter notebook
